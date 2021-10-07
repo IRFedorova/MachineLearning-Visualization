@@ -1,1 +1,1 @@
-# MachineLearningProject
+# MachineLearning and Visualization
