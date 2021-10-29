@@ -10,7 +10,7 @@ Data Source:
 Kaggle, the home of Data Science
 
 Objective of Machine Learning Model
-![Visualization](images/pt image 1.JPG)
+![Visualization](images/pt_image1.JPG)
 
 Classification Model Selection
 
@@ -23,4 +23,4 @@ Exploratory Data Analysis: Visualization in Tableau
 Encoding and Separating for Training
 
 Model Results 
-![Visualization](images/pt image 2.JPG)
+![Visualization](images/pt_image2.JPG)
