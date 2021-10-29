@@ -16,7 +16,7 @@ Classification Model Selection
 Data Cleaning Process
 
 Exploratory Data Analysis: Visualization in Tableau
-![Visualization]((https://github.com/IRFedorova/MachineLearning-Visualization/blob/main/images/Story-p1.JPG?raw=true)
+![Visualization](images/Story-p1.JPG)
 ![Visualization](images/Story-p2.JPG)
 
 Encoding and Separating for Training
