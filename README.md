@@ -10,9 +10,12 @@ Data Source:
 Kaggle, the home of Data Science
 
 Objective of Machine Learning Model
+The goal for this project is to predict which of the customers will have their loan paid or not. 
+Therefore, this is a supervised classification problem to be trained with algorithms like:
+- Logistic Regression
+- Decision Tree
+- Random Forest
 ![Visualization](images/pt_image1.JPG)
-
-Classification Model Selection
 
 Data Cleaning Process
 
